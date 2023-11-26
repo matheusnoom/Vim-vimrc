@@ -1,4 +1,4 @@
-# Tutorial de Instalação do `.vimrc` para Windows e MacBook
+# Tutorial de Instalação do `.vimrc` para Windows e MacOS
 
 ## Para Windows
 
@@ -22,7 +22,7 @@
 - Abra o arquivo `_vimrc` com o Bloco de Notas e cole o conteúdo copiado.
 - Reinicie o VIM, abra o arquivo `_vimrc` com `:e _vimrc` e aplique as configurações com `:w` seguido de `:source %`.
 
-## Para MacBook
+## Para MacOS
 
 ### Download e Instalação do VIM
 - Normalmente, o VIM já vem pré-instalado em macOS. Verifique a instalação abrindo o Terminal e digitando `vim`.
